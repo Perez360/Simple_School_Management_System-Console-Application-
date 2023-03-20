@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Prodein_jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Prodein/out/artifacts/Prodein_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../Prodein/out/artifacts/Prodein_jar" recursive="false" />
+  </library>
+</component>
